@@ -1,0 +1,9 @@
+.todoList {
+    display: flex;
+    justify-content: space-between;
+    color: aqua;
+}
+
+body {
+    background-color: rgb(87, 71, 71);
+}

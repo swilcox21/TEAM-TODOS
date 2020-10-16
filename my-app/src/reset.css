@@ -1,3 +1,39 @@
+body {
+    background-color: gray;
+}
+input {
+    height: 25px;
+    width: 100%;
+    color: blueviolet;
+}
+li {
+    display: flex;
+    color: aqua;
+}
+.deleteX {
+    /* margin-left: 5px; */
+    cursor: pointer;
+    font-size: 32px;
+    margin: auto;
+    margin-top: -5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.container {
+    max-width: 30%;
+    margin: auto;
+    border: 1px solid black;
+}
+
+/* dont touch the code below this line
+br
+br
+br
+br
+br */
+
+
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)

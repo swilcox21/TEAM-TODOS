@@ -7,14 +7,14 @@ function App() {
     return (
         <BrowserRouter>
             <div className="App">
-            <Switch>
-						<Route exact path="/">
-							<Home />
-						</Route>
-						<Route exact path="/testview">
-							<Testview />
-						</Route>
-					</Switch>
+                <Switch>
+                    <Route exact path="/">
+                        <Home />
+                    </Route>
+                    <Route exact path="/testview">
+                        <Testview />
+                    </Route>
+				</Switch>
             </div>
         </BrowserRouter>
     )
